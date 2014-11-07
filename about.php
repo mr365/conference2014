@@ -28,9 +28,10 @@
           </section><!-- sidebar -->
 
         </div> <!-- content-->
+        <?php include "_/components/php/footer.php"; ?>
     </section>    <!-- container -->
 
-<
+
     
     <script src="_/js/bootstrap.js"></script>
      <script src="_/js/myscript.js"></script>
