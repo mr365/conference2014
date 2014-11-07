@@ -4,25 +4,25 @@
 "files": {
 	"\/_\/components\/js\/_bootstrap.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/_\/components\/js\/_bootstrap.js",
 		"outputAbbreviatedPath": "\/_\/js\/bootstrap.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 1,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 0
 		},
 	"\/_\/components\/js\/_myscript.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/_\/components\/js\/_myscript.js",
-		"outputAbbreviatedPath": "\/_\/components\/js\/min\/_myscript-min.js",
+		"outputAbbreviatedPath": "\/_\/js\/myscript.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 0
 		},
 	"\/_\/components\/js\/affix.js": {
 		"fileType": 64,
@@ -1645,7 +1645,7 @@
 		},
 	"\/_\/js\/myscript.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/js\/myscript.js",
 		"outputAbbreviatedPath": "\/_\/js\/min\/myscript-min.js",
