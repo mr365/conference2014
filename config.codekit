@@ -4,8 +4,8 @@
 "files": {
 	"\/_\/components\/js\/_bootstrap.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/_bootstrap.js",
 		"outputAbbreviatedPath": "\/_\/js\/bootstrap.js",
 		"outputPathIsOutsideProject": 0,
@@ -15,14 +15,14 @@
 		},
 	"\/_\/components\/js\/_myscript.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/_myscript.js",
-		"outputAbbreviatedPath": "\/_\/js\/myscript.js",
+		"outputAbbreviatedPath": "\/_\/components\/js\/min\/_myscript-min.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
-		"syntaxCheckerStyle": 0
+		"syntaxCheckerStyle": 1
 		},
 	"\/_\/components\/js\/affix.js": {
 		"fileType": 64,
@@ -1587,11 +1587,29 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/php\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/php\/header.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/php\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/snippet-carousel.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/snippet-carousel.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1627,7 +1645,7 @@
 		},
 	"\/_\/js\/myscript.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/js\/myscript.js",
 		"outputAbbreviatedPath": "\/_\/js\/min\/myscript-min.js",
@@ -1653,6 +1671,61 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/images\/carousel\/newyork-skyline1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249162,
+		"inputAbbreviatedPath": "\/images\/carousel\/newyork-skyline1.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/newyork-skyline1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/newyork-skyline2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 477009,
+		"inputAbbreviatedPath": "\/images\/carousel\/newyork-skyline2.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/newyork-skyline2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/newyork-skyline3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 462925,
+		"inputAbbreviatedPath": "\/images\/carousel\/newyork-skyline3.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/newyork-skyline3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/newyork-skyline4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431085,
+		"inputAbbreviatedPath": "\/images\/carousel\/newyork-skyline4.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/newyork-skyline4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/newyork-skyline5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 339992,
+		"inputAbbreviatedPath": "\/images\/carousel\/newyork-skyline5.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/newyork-skyline5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/images\/misc\/brandlogo.jpg": {
 		"fileType": 16384,
