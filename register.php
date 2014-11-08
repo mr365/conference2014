@@ -6,8 +6,8 @@
     <title>Elite Academy conference 2014 -- Register</title>
     <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
     <!-- Bootstrap -->
-    <link href="_/css/bootstrap.css" rel="stylesheet">
-    <link href="_/css/mystyles.css" rel="stylesheet">
+    <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
   </head>
   <body id="register">
     <section class="container"> 
