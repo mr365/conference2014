@@ -12,8 +12,9 @@
   <body id="register">
     <section class="container"> 
         <div class"contenet row">
+          <?php include "_/components/php/header.php"; ?>
           <section class="main col col-lg-8">
-              <?php include "_/components/php/header.php"; ?>
+              
           </section><!--main -->
           <section class="sidebar col col-lg-4">
              

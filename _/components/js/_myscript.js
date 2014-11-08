@@ -10,5 +10,8 @@ $( function() {
    	$('.dropdown-menu', this).fadeIn();
   }, function(){
   	$('.dropdown-menu', this).fadeOut();
-  });
-   });
+  });//hover
+
+   	$("[data-toggle='tooltip']").tooltip({animation: true});
+
+   }); //jQuery  is loaded

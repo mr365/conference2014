@@ -15,7 +15,7 @@
 				    	<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
 				    	<li><a tableinex="-1" href="artists.php">All artists</a></li>
 				    	<li class="divider"></li>
-				    	<li><a tableinex="-1" href="artists.php#Rehman">Rehman</a></li>
+				    	<li><a tableinex="-1" href="artists.php#Rahman">A.R.Rahman</a></li>
 				    	<li><a tableinex="-1" href="artists.php#SPBalu">S.P.Balu</a></li>
 				    	<li><a tableinex="-1" href="artists.php#PSusheela">P.Susheela</a></li>
 				    	<li><a tableinex="-1" href="artists.php#Illayaraja">Illayaraja</a></li>
