@@ -28,7 +28,7 @@
 			</section><!-- navbar -->
 			<section id="Mymodal" class="modal fade">
 				<div class="modal-body">
-					<img id="modalimage"src="" alt="modal photo" width="960px" min-height="480px">
+					<img id="modalimage"src="" alt="modal photo" width="100%">
 				</div><!-- modal body-->
 				
 			</section><!--modal-->	
