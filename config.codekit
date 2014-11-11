@@ -1587,6 +1587,51 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/php\/article-abouttheartists.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-abouttheartists.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-aboutthevenue.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-aboutthevenue.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-intro.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-intro.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/aside-lastyear.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-lastyear.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/aside-register.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-register.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/php\/footer.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1601,6 +1646,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/php\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/snippet-artistphotogrid.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/snippet-artistphotogrid.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1672,6 +1726,94 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/artists\/Illayaraja.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44688,
+		"inputAbbreviatedPath": "\/images\/artists\/Illayaraja.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/Illayaraja.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artists\/Illayaraja_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3664,
+		"inputAbbreviatedPath": "\/images\/artists\/Illayaraja_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/Illayaraja_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artists\/PSusheela.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13339,
+		"inputAbbreviatedPath": "\/images\/artists\/PSusheela.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/PSusheela.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artists\/PSusheela_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3717,
+		"inputAbbreviatedPath": "\/images\/artists\/PSusheela_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/PSusheela_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artists\/rahman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12557,
+		"inputAbbreviatedPath": "\/images\/artists\/rahman.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/rahman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artists\/rahman_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3202,
+		"inputAbbreviatedPath": "\/images\/artists\/rahman_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/rahman_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artists\/SPBalu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104601,
+		"inputAbbreviatedPath": "\/images\/artists\/SPBalu.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/SPBalu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artists\/SPBalu_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4495,
+		"inputAbbreviatedPath": "\/images\/artists\/SPBalu_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/artists\/SPBalu_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/carousel\/newyork-skyline1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1727,6 +1869,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/hotels\/spa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14528,
+		"inputAbbreviatedPath": "\/images\/hotels\/spa.jpg",
+		"outputAbbreviatedPath": "\/images\/hotels\/spa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/misc\/brandlogo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1734,6 +1887,138 @@
 		"initialSize": 7250,
 		"inputAbbreviatedPath": "\/images\/misc\/brandlogo.jpg",
 		"outputAbbreviatedPath": "\/images\/misc\/brandlogo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/five.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 265192,
+		"inputAbbreviatedPath": "\/images\/slides\/five.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/five.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/five_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5109,
+		"inputAbbreviatedPath": "\/images\/slides\/five_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/five_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/four.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135323,
+		"inputAbbreviatedPath": "\/images\/slides\/four.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/four.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/four_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6197,
+		"inputAbbreviatedPath": "\/images\/slides\/four_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/four_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 260114,
+		"inputAbbreviatedPath": "\/images\/slides\/one.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/one_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19663,
+		"inputAbbreviatedPath": "\/images\/slides\/one_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/one_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/six.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166615,
+		"inputAbbreviatedPath": "\/images\/slides\/six.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/six.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/six_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11861,
+		"inputAbbreviatedPath": "\/images\/slides\/six_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/six_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111351,
+		"inputAbbreviatedPath": "\/images\/slides\/three.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/three_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10662,
+		"inputAbbreviatedPath": "\/images\/slides\/three_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/three_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223648,
+		"inputAbbreviatedPath": "\/images\/slides\/two.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/two_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5396,
+		"inputAbbreviatedPath": "\/images\/slides\/two_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/two_tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

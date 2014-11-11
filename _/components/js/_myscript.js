@@ -11,7 +11,18 @@ $( function() {
   }, function(){
   	$('.dropdown-menu', this).fadeOut();
   });//hover
-
+   //show tooltip
    	$("[data-toggle='tooltip']").tooltip({animation: true});
+   	//show modals
+   	$('.modalphotos img').on('click', function(){
+   		$('#Mymodal').modal({ 
+   			show: true
+   			 })
 
+   		var mysrc= this.src.substr(0,this.src.length-7)+".jpg";
+   		$('#modalimage').attr('src', mysrc);
+   		$('#modalimage').on('click', function(){
+        $('#Mymodal').modal('hide')
+      });
+   	});
    }); //jQuery  is loaded

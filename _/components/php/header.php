@@ -23,7 +23,15 @@
 				    </li>
 				    <li><a href="register.php">Register</a></li>
 				</ul><!-- nav-->
+			
+			<!--modal-->	
 			</section><!-- navbar -->
+			<section id="Mymodal" class="modal fade">
+				<div class="modal-body">
+					<img id="modalimage"src="" alt="modal photo" width="960px" min-height="480px">
+				</div><!-- modal body-->
+				
+			</section><!--modal-->	
 		
 		</header><!-- header -->
 	</div><!-- column -->
