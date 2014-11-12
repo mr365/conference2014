@@ -1,0 +1,9 @@
+#thevenue p img {
+float: left;
+padding-right: 20px;
+}
+#hotellist img {
+float: left;
+padding: 20px 20px;
+}
+#hotellist li {list-style-type: none; border-bottom: solid black 1px; padding:20px,0px;}

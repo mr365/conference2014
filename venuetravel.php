@@ -11,18 +11,24 @@
   </head>
   <body id="venuetravel">
     <section class="container"> 
-        <div class"contenet row">
-          <?php include "_/components/php/header.php"; ?>
-          <section class="main col col-lg-8">
+        <div class"row">
+            <?php include "_/components/php/header.php"; ?>
+            
+          <section class="col-md-8 col-xs-12">
+              <?php include "_/components/php/article-venues.php"; ?>
              
           </section><!--main -->
-          <section class="sidebar col col-lg-4">
-             
+          <section class="col-md-4 col-xs-6">
+            <?php include "_/components/php/aside-register.php"; ?>
+             <?php include "_/components/php/aside-lastyear.php"; ?>
+             <?php include "_/components/php/aside-abouttheartists.php"; ?>
+             <?php include "_/components/php/aside-accordion.php"; ?>
           </section><!-- sidebar -->
+
         </div> <!-- content-->
+
+    </section><!--container-->
         <?php include "_/components/php/footer.php"; ?>
-    </section>    <!-- container -->
-    
     <script src="_/js/bootstrap.js"></script>
      <script src="_/js/myscript.js"></script>
   </body>

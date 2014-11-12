@@ -14,14 +14,15 @@
         <div class"row">
             <?php include "_/components/php/header.php"; ?>
             <?php include "_/components/php/snippet-carousel.php"; ?>
-          <section class="col-md-8 col-xs-6">
+          <section class="col-md-8 col-xs-12">
               <?php include "_/components/php/article-intro.php"; ?>
               <?php include "_/components/php/article-abouttheartists.php"; ?>
               <?php include "_/components/php/article-aboutthevenue.php"; ?>
           </section><!--main -->
-          <section class="col-md-4 col-xs-4">
+          <section class="col-md-4 col-xs-6">
             <?php include "_/components/php/aside-register.php"; ?>
              <?php include "_/components/php/aside-lastyear.php"; ?>
+             <?php include "_/components/php/aside-accordion.php"; ?>
           </section><!-- sidebar -->
         </div> <!-- content-->
        
