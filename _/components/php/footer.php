@@ -1,4 +1,4 @@
-<section class="container">
+<section id="container">
 	<footer class="row">
 		<nav class="col-lg-12">
 			<ul class="breadcrumb">

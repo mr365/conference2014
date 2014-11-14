@@ -1,7 +1,7 @@
 <section class="artistlist">
   <div id="artistindex" class="row">
     
-    <section class="scrollspy clearfix col-md-3 hidden-sm">
+    <section class="scrollspy clearfix col-md-3 hidden-xs hidden-sm">
       <ul class="nav nav-list affix">
         <li>
           <a href="#rahman"><span class="glyphicon glyphicon-user"></span> A.R. Rahman</a>

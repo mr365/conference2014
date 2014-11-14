@@ -18,26 +18,39 @@
 	<section class="tab-content">
 
 		<div class="tab-pane active" id="monday">
-			<p> Monday text goes here</p>
+			<h2>Music in the air</h2>
+			<img class="pull-left img-rounded" style="padding-right:10px;" src="images/artists/rahman_tn.jpg">
+				<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house one might find a bedroom, or a television, or any of the other trappings of a residential home. But as for the ground floor, it’s hard to take a step without trodding upon some stray piece of musical equipment, with guitars, drums, a grand piano, a bright red Continuum Fingerboard, mixing boards, two turntables, microphones and synthesizers as far as the eye can see. A veteran composer of Hollywood, Tamil, Hindi and Chinese films, the two-time Oscar-winner will accept an honorary doctorate from Berklee College of Music on Oct. 24, and should the school ever find itself short of instruments, they know who to call.</p>
 			
 		</div><!-- monday-->	
 
 		<div class="tab-pane" id="tuesday">
-			<p> Tuesday text goes here</p>
+			<h2>The unforggetable voice</h2>
+			<img class="pull-left img-rounded" style="padding-right:10px;" src="images/artists/SPBalu_tn.jpg">
+				<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house one might find a bedroom, or a television, or any of the other trappings of a residential home. But as for the ground floor, it’s hard to take a step without trodding upon some stray piece of musical equipment, with guitars, drums, a grand piano, a bright red Continuum Fingerboard, mixing boards, two turntables, microphones and synthesizers as far as the eye can see. A veteran composer of Hollywood, Tamil, Hindi and Chinese films, the two-time Oscar-winner will accept an honorary doctorate from Berklee College of Music on Oct. 24, and should the school ever find itself short of instruments, they know who to call.</p>
+			
 		</div><!-- tuesday-->
 
 		<div class="tab-pane" id="wednesday">
-			<p> wednesday text goes here</p>
+			<h2>The high pitch</h2>
+			<img class="pull-left img-rounded" style="padding-right:10px;" src="images/artists/PSusheela_tn.jpg">
+				<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house one might find a bedroom, or a television, or any of the other trappings of a residential home. But as for the ground floor, it’s hard to take a step without trodding upon some stray piece of musical equipment, with guitars, drums, a grand piano, a bright red Continuum Fingerboard, mixing boards, two turntables, microphones and synthesizers as far as the eye can see. A veteran composer of Hollywood, Tamil, Hindi and Chinese films, the two-time Oscar-winner will accept an honorary doctorate from Berklee College of Music on Oct. 24, and should the school ever find itself short of instruments, they know who to call.</p>
+			
 			
 		</div><!-- wednesday-->
 
 		<div class="tab-pane" id="thursday">
-			<p> Thu text goes here</p>
+			<h2>The Melody</h2>
+			<img class="pull-left img-rounded" style="padding-right:10px;" src="images/artists/Illayaraja_tn.jpg">
+				<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house one might find a bedroom, or a television, or any of the other trappings of a residential home. But as for the ground floor, it’s hard to take a step without trodding upon some stray piece of musical equipment, with guitars, drums, a grand piano, a bright red Continuum Fingerboard, mixing boards, two turntables, microphones and synthesizers as far as the eye can see. A veteran composer of Hollywood, Tamil, Hindi and Chinese films, the two-time Oscar-winner will accept an honorary doctorate from Berklee College of Music on Oct. 24, and should the school ever find itself short of instruments, they know who to call.</p>
 			
 		</div><!-- Thursday-->
 
 		<div class="tab-pane" id="friday">
-			<p> fri text goes here</p>
+			<h2>Medley</h2>
+			<?php include "snippet-artistphotogrid.php"; ?>
+				<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house one might find a bedroom, or a television, or any of the other trappings of a residential home. But as for the ground floor, it’s hard to take a step without trodding upon some stray piece of musical equipment, with guitars, drums, a grand piano, a bright red Continuum Fingerboard, mixing boards, two turntables, microphones and synthesizers as far as the eye can see. A veteran composer of Hollywood, Tamil, Hindi and Chinese films, the two-time Oscar-winner will accept an honorary doctorate from Berklee College of Music on Oct. 24, and should the school ever find itself short of instruments, they know who to call.</p>
+			
 			
 		</div><!-- friday-->
 

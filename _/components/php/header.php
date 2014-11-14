@@ -1,5 +1,4 @@
-<div class="content row">
-	<div class="col-md-12">
+
 		<header class="clearfix"><!-- to clear all floats -->
 			<section id="branding">
 				<a href="index.php"> <img src="/images/misc/brandlogo.jpg" alt="Logo for mari's conference 2014"></a>
@@ -44,6 +43,4 @@
 			</section><!--modal-->	
 		
 		</header><!-- header -->
-	</div><!-- column -->
-
-</div><!-- content -->
+	

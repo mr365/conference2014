@@ -12,7 +12,7 @@
 	</section><!-- accordion group-->
 	<div id="monday" class="accordion-body collapse">
 		<section>
-			<p> some text goes here</p>
+			<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house</p>
 			<p><a href="schedule.php#monday" class="btn btn-danger btn-small">Monday's Schedule</a></p>
 		</section><!-- accordion-inner-->
 
@@ -25,7 +25,7 @@
 	</section><!-- accordion group-->
 	<div id="tuesday" class="accordion-body collapse">
 		<section>
-			<p> some text goes here</p>
+			<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house</p>
 			<p><a href="schedule.php#tuesday" class="btn btn-danger btn-small">Tuesday's Schedule</a></p>
 		</section><!-- accordion-inner-->
 
@@ -39,7 +39,7 @@
 	</section><!-- accordion group-->
 	<div id="wednesday" class="accordion-body collapse">
 		<section>
-			<p> some text goes here</p>
+			<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house</p>
 			<p><a href="schedule.php#wednesday" class="btn btn-danger btn-small">Wednesday's Schedule</a></p>
 		</section><!-- accordion-inner-->
 
@@ -53,7 +53,7 @@
 	</section><!-- accordion group-->
 	<div id="thursday" class="accordion-body collapse">
 		<section>
-			<p> some text goes here</p>
+			<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house</p>
 			<p><a href="schedule.php#thursday" class="btn btn-danger btn-small">Thursday's Schedule</a></p>
 		</section><!-- accordion-inner-->
 
@@ -69,7 +69,7 @@
 
 	<div id="friday" class="accordion-body collapse">
 		<section>
-			<p> some text goes here</p>
+			<p> Presumably, somewhere on the second floor of composer-songwriter-singer-multi-instrumentalist A.R. Rahman’s Los Angeles house</p>
 			<p><a href="schedule.php#friday" class="btn btn-danger btn-small">Friday's Schedule</a></p>
 		</section><!-- accordion-inner-->
 
