@@ -8,19 +8,19 @@
        <li data-target="#myCarousel" data-slide-to="4"></li>
     </ol>
      <section class="carousel-inner"> 
-       <div class="item active"><img src="images/carousel/newyork-skyline1.jpg" style="width:100%"/>
+       <div class="item active"><img src="images/carousel/newyork-skyline1.jpg" />
 	
 	     </div>
-       <div class="item"><img src="images/carousel/newyork-skyline2.jpg" style="width:100%"/>
+       <div class="item"><img src="images/carousel/newyork-skyline2.jpg" />
 	
 	     </div>
-       <div class="item"><img src="images/carousel/newyork-skyline3.jpg" style="width:100%"/>
+       <div class="item"><img src="images/carousel/newyork-skyline3.jpg"/>
 	
 	     </div>
-       <div class="item"><img src="images/carousel/newyork-skyline4.jpg" style="width:100%"/>
+       <div class="item"><img src="images/carousel/newyork-skyline4.jpg" />
   
        </div>
-       <div class="item"><img src="images/carousel/newyork-skyline5.jpg" style="width:100%"/>
+       <div class="item"><img src="images/carousel/newyork-skyline5.jpg" />
   
        </div>
 

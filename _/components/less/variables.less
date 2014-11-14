@@ -14,12 +14,29 @@
 @gray-light:             lighten(@gray-base, 46.7%); // #777
 @gray-lighter:           lighten(@gray-base, 93.5%); // #eee
 
-@brand-primary:         #428bca;
+@brand-primary:         @purple;
 @brand-success:         #5cb85c;
 @brand-info:            #5bc0de;
 @brand-warning:         #f0ad4e;
-@brand-danger:          #d9534f;
+@brand-danger:          @pink;
 
+//my colors
+
+@pink: 			#E91E63;
+@dark-pink: 	#E91E63;
+@purple:        #9C27B0;
+@sky-blue:		#BBDEFB;
+@cyan:			#00BCD4;
+@yellow:		#FFEB3B;
+@light-green:	#8BC34A;
+@green:			#4CAF50;
+@amber:			#FFC107;
+@black:			#424242;
+@grey: 			#9E9E9E;
+@white:			#F5F5F5;
+@light-grey:	#BDBDBD;
+@blue-grey:		#ECEFF1;
+@blue-grey-dark: #607D8B;
 
 //== Scaffolding
 //
@@ -47,8 +64,10 @@
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 @font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
 @font-family-base:        @font-family-sans-serif;
+@headlineFontFamily:    "Bree Serif";
+@copyFontFamily:		Merriweather;
 
-@font-size-base:          14px;
+@font-size-base:          16px;
 @font-size-large:         ceil((@font-size-base * 1.25)); // ~18px
 @font-size-small:         ceil((@font-size-base * 0.85)); // ~12px
 
@@ -347,22 +366,22 @@
 //##
 
 // Basics of a navbar
-@navbar-height:                    50px;
+@navbar-height:                    35px;
 @navbar-margin-bottom:             @line-height-computed;
 @navbar-border-radius:             @border-radius-base;
 @navbar-padding-horizontal:        floor((@grid-gutter-width / 2));
 @navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
 @navbar-collapse-max-height:       340px;
 
-@navbar-default-color:             #777;
-@navbar-default-bg:                #f8f8f8;
+@navbar-default-color:             @black;
+@navbar-default-bg:                darken(@black, 5%);
 @navbar-default-border:            darken(@navbar-default-bg, 6.5%);
 
 // Navbar links
-@navbar-default-link-color:                #777;
-@navbar-default-link-hover-color:          #333;
-@navbar-default-link-hover-bg:             transparent;
-@navbar-default-link-active-color:         #555;
+@navbar-default-link-color:                @white;
+@navbar-default-link-hover-color:          @black;
+@navbar-default-link-hover-bg:             @light-grey;
+@navbar-default-link-active-color:         @grey;
 @navbar-default-link-active-bg:            darken(@navbar-default-bg, 6.5%);
 @navbar-default-link-disabled-color:       #ccc;
 @navbar-default-link-disabled-bg:          transparent;

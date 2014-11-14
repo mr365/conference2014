@@ -1,9 +1,1 @@
-#thevenue p img {
-float: left;
-padding-right: 20px;
-}
-#hotellist img {
-float: left;
-padding: 20px 20px;
-}
-#hotellist li {list-style-type: none; border-bottom: solid black 1px; padding:20px,0px;}
+h1,h2,h3,h4,h5,h6{font-family:Bree Serif;color:#424242}body{background:#bdbdbd;margin-top:30px}p{font-family:Merriweather;font-size:1.1em;line-height:1.4em;color:#607d8b;padding:0 2%}.container{background:#eceff1;-webkit-border-radius:60px 0 0 0;-moz-border-radius:60px 0 0 0;border-radius:60px 0 0 0}@media (max-width:767px){.container{background:#eceff1;-webkit-border-radius:60px 0 0 0;-moz-border-radius:60px 0 0 0;border-radius:60px 0 0 0}}.main{background:#eceff1}.navbar{margin-bottom:0;border-right:none;border-left:none;border-radius:0}.carousel{margin-bottom:0;-webkit-border-radius:20px 20px;-moz-border-radius:20px 20px;border-radius:20px 20px}.main>article{margin:0 5%}.sidebar>aside{padding-right:5%}@media (max-width:767px){.sidebar>aside{padding-left:5%}}aside h2{font-size:1.8em;color:#e91e63}#branding img{margin:0 0 5px 15px;max-width:400px}@media (max-width:767){#branding img{margin:0 0 5px 15px;width:90%}}.accordion-heading a{color:#e91e63}aboutthevenue artcle{margin:0;padding:0}aboutthevenue h2{padding:0;padding-bottom:0}

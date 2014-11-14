@@ -1,11 +1,20 @@
 <div class="content row">
-	<div class="col-lg-12">
+	<div class="col-md-12">
 		<header class="clearfix"><!-- to clear all floats -->
 			<section id="branding">
 				<a href="index.php"> <img src="/images/misc/brandlogo.jpg" alt="Logo for mari's conference 2014"></a>
 			</section><!-- branding -->
-			
-			<section class="navbar">
+	<section class="navbar navbar-default" role="navigation">
+		<div class="navbar-header">
+		      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#thenavbar">
+		        <span class="sr-only">Toggle navigation</span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		      </button>
+
+    	</div>
+			<nav class=" collapse navbar-collapse" id="thenavbar" role="navigation">
 				<ul class="nav navbar-nav">
 					<li><a href="index.php">Home</a></li>
 					<li><a href="venuetravel.php">Venue</a></li>
@@ -23,8 +32,10 @@
 				    <li><a href="register.php">Register</a></li>
 				</ul><!-- nav-->
 			
-			<!--modal-->	
-			</section><!-- navbar -->
+			
+			</nav><!-- navbar -->
+	</section><!-- nav bar container-->
+
 			<section id="Mymodal" class="modal fade">
 				<div class="modal-body">
 					<img id="modalimage"src="" alt="modal photo" width="100%">

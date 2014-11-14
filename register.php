@@ -11,18 +11,23 @@
   </head>
   <body id="register">
     <section class="container"> 
-        <div class"contenet row">
-          <?php include "_/components/php/header.php"; ?>
-          <section class="main col col-lg-8">
-              
-          </section><!--main -->
-          <section class="sidebar col col-lg-4">
+        <div class"row">
+            <?php include "_/components/php/header.php"; ?>
+            
+          <section class="main col-md-8 col-xs-12">
+              <?php include "_/components/php/article-registrationform.php"; ?>
              
+          </section><!--main -->
+          <section class="sidebar col-md-4 col-xs-6">
+            
+             <?php include "_/components/php/aside-lastyear.php"; ?>
+             <?php include "_/components/php/aside-abouttheartists.php"; ?>
+            
           </section><!-- sidebar -->
 
         </div> <!-- content-->
-        <?php include "_/components/php/footer.php"; ?>
-    </section>    <!-- container -->
+
+    </section><!--container-->
 
 
     

@@ -14,11 +14,11 @@
         <div class"row">
             <?php include "_/components/php/header.php"; ?>
             
-          <section class="col-md-8 col-xs-12">
+          <section class="main col-md-8 col-xs-12">
               <?php include "_/components/php/article-venues.php"; ?>
              
           </section><!--main -->
-          <section class="col-md-4 col-xs-6">
+          <section class="sidebar col-md-4 col-xs-6">
             <?php include "_/components/php/aside-register.php"; ?>
              <?php include "_/components/php/aside-lastyear.php"; ?>
              <?php include "_/components/php/aside-abouttheartists.php"; ?>
