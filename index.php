@@ -8,6 +8,9 @@
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+    <!-- Header Tag Code -->
+<script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "2.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u + new Date(Math.floor(new Date().getTime() / 6e5) * 6e5).getTime(); b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//embed.insticator.com/embeds/script?sid=4e216c05-a296-4fa8-9878-e1f38ad716fe&cbt=');/*]]>*/</script>
+<!-- End Header Tag Code -->
   </head>
   <body id="home">
     <section class="container"> 
