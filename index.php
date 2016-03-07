@@ -19,6 +19,9 @@
             <?php include "_/components/php/snippet-carousel.php"; ?>
           <section class="main col-md-8 col-xs-12">
               <?php include "_/components/php/article-intro.php"; ?>
+              <!-- Insticator API Embed Code -->
+<div id="insticator-container"><div id="div-insticator-ad-1"></div><div id="insticator-embed"></div><div id="div-insticator-ad-2"></div><script data-cfasync='false' type="text/javascript">/*<![CDATA[*/Insticator.ad.loadAd("div-insticator-ad-1");Insticator.ad.loadAd("div-insticator-ad-2");Insticator.load("em",{id : "28966aca-2cf8-44f7-87c2-343b479d0945"})/*]]>*/</script></div>
+<!-- End Insticator API Embed Code -->
               <?php include "_/components/php/article-abouttheartists.php"; ?>
               <?php include "_/components/php/article-aboutthevenue.php"; ?>
           </section><!--main -->
