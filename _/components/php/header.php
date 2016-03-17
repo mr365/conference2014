@@ -29,6 +29,14 @@
 				    	</ul><!-- dropdown menu-->
 				    </li>
 				    <li><a href="register.php">Register</a></li>
+				    <li>
+				    	<div
+			              class="fb-like"
+			              data-share="true"
+			              data-width="450"
+			              data-show-faces="true">
+			            </div>
+				    </li>
 				</ul><!-- nav-->
 			
 			

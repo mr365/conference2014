@@ -9,18 +9,13 @@
    <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
   </head>
-  <body id="tracker">
+  <body id="personal-tracker">
     <section class="container"> 
         <div class"row">
             <?php include "_/components/php/header.php"; ?>
             
           <section class="main col-md-8 col-xs-12">
-             <div
-              class="fb-like"
-              data-share="true"
-              data-width="450"
-              data-show-faces="true">
-            </div>
+             
              
           </section><!-- sidebar -->
 
@@ -34,6 +29,10 @@
           xfbml      : true,
           version    : 'v2.5'
         });
+        FB.login(function(){
+        // Note: The call will only work if you accept the permission request
+          FB.api('/me/feed', 'post', {message: 'Hello, world!'});
+        }, {scope: 'publish_actions'});
       };
 
       (function(d, s, id){
